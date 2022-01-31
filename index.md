@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome James Kaguo
 
-You can use the [editor on GitHub](https://github.com/jameskaguo777/me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi am James Kaguo, software engineer by professional.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Works flawlessly with team,
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have been working on serveral projects for 4 years now
 
 ```markdown
 Syntax highlighted code block
